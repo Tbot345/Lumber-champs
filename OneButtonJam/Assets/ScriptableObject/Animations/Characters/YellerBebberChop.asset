@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: YellerBebberChop
+  m_EditorClassIdentifier: 
+  animationName: 
+  frames:
+  - {fileID: 6732316454968015133, guid: d401a708397c04f29833ebd97c2d9f0a, type: 3}
+  - {fileID: 6732316454968015133, guid: d401a708397c04f29833ebd97c2d9f0a, type: 3}
+  - {fileID: -5426614438591054035, guid: d7e25c4f6018a4c4687ebb61224d9312, type: 3}
+  - {fileID: -5426614438591054035, guid: d7e25c4f6018a4c4687ebb61224d9312, type: 3}
+  - {fileID: -3616818484609684849, guid: ed6f6672837c642eabd2d85960b83106, type: 3}
+  - {fileID: -3616818484609684849, guid: ed6f6672837c642eabd2d85960b83106, type: 3}
+  loop: 0
+  timeBetweenFrames: 0.05

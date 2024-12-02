@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: HandsomeBillidle
+  m_EditorClassIdentifier: 
+  animationName: 
+  frames:
+  - {fileID: -6863060257605585656, guid: d2154c95635a4b046b611ffe5589e950, type: 3}
+  - {fileID: -6863060257605585656, guid: d2154c95635a4b046b611ffe5589e950, type: 3}
+  - {fileID: 3111920554270714942, guid: 91b36d766cc739947b4070b8d42eb621, type: 3}
+  - {fileID: 3111920554270714942, guid: 91b36d766cc739947b4070b8d42eb621, type: 3}
+  loop: 0
+  timeBetweenFrames: 0.3

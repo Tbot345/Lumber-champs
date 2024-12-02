@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: NatashaChop
+  m_EditorClassIdentifier: 
+  animationName: 
+  frames:
+  - {fileID: -5845971398921934461, guid: 2e1e9ebe006d01e4a9ba5f4a53b01578, type: 3}
+  - {fileID: -5845971398921934461, guid: 2e1e9ebe006d01e4a9ba5f4a53b01578, type: 3}
+  - {fileID: -6990262322368904979, guid: c68dfc534e3a0f2408f6cb7d8a3a88ba, type: 3}
+  - {fileID: -6990262322368904979, guid: c68dfc534e3a0f2408f6cb7d8a3a88ba, type: 3}
+  - {fileID: -2963239326799632939, guid: 3c7a5b4c799ab4447be2ffa94a02102c, type: 3}
+  - {fileID: -2963239326799632939, guid: 3c7a5b4c799ab4447be2ffa94a02102c, type: 3}
+  loop: 0
+  timeBetweenFrames: 0.05

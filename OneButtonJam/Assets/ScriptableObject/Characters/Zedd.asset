@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Zedd
+  m_EditorClassIdentifier: 
+  textImage: {fileID: -7927360179723367124, guid: b8fb314ebe880694d85b45364320a440, type: 3}
+  characterImage: {fileID: -4967207854906273647, guid: 24435f9030a7514439ec4f9eed185d8e, type: 3}
+  idle: {fileID: 11400000, guid: b4d3b500e9783f14c905b3d393ee4f11, type: 2}
+  chop: {fileID: 11400000, guid: 453b92948d8d0594c98a82f51a97cb24, type: 2}

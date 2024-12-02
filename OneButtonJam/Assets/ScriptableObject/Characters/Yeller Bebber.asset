@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Yeller Bebber
+  m_EditorClassIdentifier: 
+  textImage: {fileID: -8867916842919051591, guid: 44d8a22bb9493d34dafa668ee9bf92da, type: 3}
+  characterImage: {fileID: -3356414241140765194, guid: e9a5c9c6488202f46b4f9962492c1e90, type: 3}
+  idle: {fileID: 11400000, guid: f442e4193f995314fb9abd68ee1f2fc2, type: 2}
+  chop: {fileID: 11400000, guid: e50886478d1032042a9d6d5af882737a, type: 2}

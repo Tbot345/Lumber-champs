@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Channel
+  m_EditorClassIdentifier: 
+  textImage: {fileID: 4897362496074871181, guid: 996d349a2faf7b14582194b5d508dbe9, type: 3}
+  characterImage: {fileID: 4493932810148666764, guid: 01c0924650f52e64cb68022adafd0dec, type: 3}
+  idle: {fileID: 11400000, guid: 370696017c4bd1c438405086acad8235, type: 2}
+  chop: {fileID: 11400000, guid: 1dcf9fc70f6e3b843ac6c294850c8a11, type: 2}

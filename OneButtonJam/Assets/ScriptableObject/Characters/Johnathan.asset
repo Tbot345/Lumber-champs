@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Johnathan
+  m_EditorClassIdentifier: 
+  textImage: {fileID: 7866737779929259817, guid: 6ad194bb648a2524192f130ac5c4d8e2, type: 3}
+  characterImage: {fileID: -1059205156956317842, guid: 483fa167425af7447a1cb469ece6a150, type: 3}
+  idle: {fileID: 11400000, guid: 867f8339a97a7418eaa2c3bf34581eaa, type: 2}
+  chop: {fileID: 11400000, guid: e3d7446f592514b49a0fb55a4b9a3c36, type: 2}

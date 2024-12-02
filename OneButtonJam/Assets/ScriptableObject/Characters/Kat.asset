@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Kat
+  m_EditorClassIdentifier: 
+  textImage: {fileID: -5542014911543798721, guid: 93862ae77baa4f9498f61e8210af9801, type: 3}
+  characterImage: {fileID: -5544490738576258719, guid: 3d4c43f72479a5f4190c9f3ab7c3e980, type: 3}
+  idle: {fileID: 11400000, guid: af947bd78402fc6488cb741d7d6402b0, type: 2}
+  chop: {fileID: 11400000, guid: 16620c04dd547504d8ae6c5f59b206b0, type: 2}

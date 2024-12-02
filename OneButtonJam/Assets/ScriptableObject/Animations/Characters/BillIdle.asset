@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: BillIdle
+  m_EditorClassIdentifier: 
+  animationName: 
+  frames:
+  - {fileID: 2703530044386267187, guid: 2ecdab2c6c9def748a4f7dc8ef15abc1, type: 3}
+  - {fileID: 2703530044386267187, guid: 2ecdab2c6c9def748a4f7dc8ef15abc1, type: 3}
+  - {fileID: -4290301095306023268, guid: 942ebb19b39cc7146a4eebd90fda1f66, type: 3}
+  - {fileID: -4290301095306023268, guid: 942ebb19b39cc7146a4eebd90fda1f66, type: 3}
+  loop: 1
+  timeBetweenFrames: 0.3

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: ZeddIdle
+  m_EditorClassIdentifier: 
+  animationName: 
+  frames:
+  - {fileID: -2133018672533815718, guid: 24595c530da424700a1e48651da1a1b6, type: 3}
+  - {fileID: 4924273901322708757, guid: 2b11dbf6d3aa44ce2ab1d0e64275e45f, type: 3}
+  loop: 1
+  timeBetweenFrames: 0.3

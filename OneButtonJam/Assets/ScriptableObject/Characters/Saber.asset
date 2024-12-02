@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Saber
+  m_EditorClassIdentifier: 
+  textImage: {fileID: -1054850559934818383, guid: 8b7411b61dc5c0b4f8158cea100bd77c, type: 3}
+  characterImage: {fileID: 7069323618227707166, guid: 14973382f00499145823468ca7872356, type: 3}
+  idle: {fileID: 11400000, guid: 5a78ca161faed1c45b64107641ea0649, type: 2}
+  chop: {fileID: 11400000, guid: 8b1192e601640c442a3110d4f81f9644, type: 2}

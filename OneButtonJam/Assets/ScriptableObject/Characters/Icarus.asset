@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Icarus
+  m_EditorClassIdentifier: 
+  textImage: {fileID: -3568589413117012504, guid: 605574e40d4f22e48bfb687268935889, type: 3}
+  characterImage: {fileID: 2616262512554294319, guid: e71b6cd8a7e74374fbc5aeba2c17ec2c, type: 3}
+  idle: {fileID: 11400000, guid: 02c16ed029e6b2d4f8b1a6f7f0780a3a, type: 2}
+  chop: {fileID: 11400000, guid: 2ae9ff8e23afd0647ab9ec3830141ae2, type: 2}

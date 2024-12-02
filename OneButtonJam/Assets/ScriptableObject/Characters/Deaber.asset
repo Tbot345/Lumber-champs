@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Deaber
+  m_EditorClassIdentifier: 
+  textImage: {fileID: 6038187275494179412, guid: 35cb2073e90f183409ce0cf86f1bbec4, type: 3}
+  characterImage: {fileID: 2945495436466388180, guid: 600bb96adf9adb3478319308afd0073c, type: 3}
+  idle: {fileID: 11400000, guid: 673901d1aa48a2a4faacacba2fc8228e, type: 2}
+  chop: {fileID: 11400000, guid: c01998f3582961c4d9b88c503583339f, type: 2}

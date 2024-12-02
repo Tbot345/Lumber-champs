@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Amber
+  m_EditorClassIdentifier: 
+  textImage: {fileID: 7510257923816477197, guid: c9dea6428573ad040a47a087165153cf, type: 3}
+  characterImage: {fileID: -1525606701361692784, guid: a4d480843cf03df499d07ee63a3e8b12, type: 3}
+  idle: {fileID: 11400000, guid: aa4f3cdd7c5a2c44e9eb2f9366870f59, type: 2}
+  chop: {fileID: 11400000, guid: 0123399231c28384580912fbfe0633af, type: 2}

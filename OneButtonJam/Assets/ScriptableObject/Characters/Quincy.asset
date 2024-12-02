@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Quincy
+  m_EditorClassIdentifier: 
+  textImage: {fileID: -353846134114579211, guid: 2849da1e527f8a644aedadee13744132, type: 3}
+  characterImage: {fileID: 7638115543816274064, guid: d7e45204564e442388ac698390d22167, type: 3}
+  idle: {fileID: 11400000, guid: 53e0845803978184283420d19b0a43de, type: 2}
+  chop: {fileID: 11400000, guid: f48388f6bd4c9724e9b01567bca4d1e3, type: 2}

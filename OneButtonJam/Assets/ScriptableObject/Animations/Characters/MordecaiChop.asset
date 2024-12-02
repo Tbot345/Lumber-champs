@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: MordecaiChop
+  m_EditorClassIdentifier: 
+  animationName: 
+  frames:
+  - {fileID: -3206193581236532536, guid: 712be63d2e5564d4794e6914f224238a, type: 3}
+  - {fileID: -3206193581236532536, guid: 712be63d2e5564d4794e6914f224238a, type: 3}
+  - {fileID: -5752639653317307575, guid: cd7f9cd20d0704359b2ae74eae7c38f0, type: 3}
+  - {fileID: -5752639653317307575, guid: cd7f9cd20d0704359b2ae74eae7c38f0, type: 3}
+  - {fileID: 1019813223958128036, guid: 91787a2127cb14840977f887f491daf4, type: 3}
+  - {fileID: 1019813223958128036, guid: 91787a2127cb14840977f887f491daf4, type: 3}
+  loop: 0
+  timeBetweenFrames: 0.05

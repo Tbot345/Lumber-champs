@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Trevor
+  m_EditorClassIdentifier: 
+  textImage: {fileID: -1684571836101965914, guid: 507c6d9b2c2b4db468a1d322c34d71f2, type: 3}
+  characterImage: {fileID: 6619575745331725133, guid: e3d72ef6fef21dd44afd6eba6beafaf3, type: 3}
+  idle: {fileID: 11400000, guid: 22ed9c09af66dc44e8436a508fcfdec9, type: 2}
+  chop: {fileID: 11400000, guid: 1c1cfea8a1fc63c4c8d0921ff1fab41a, type: 2}

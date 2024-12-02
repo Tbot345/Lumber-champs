@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: GrandmaIdle
+  m_EditorClassIdentifier: 
+  animationName: GrandmaIdle
+  frames:
+  - {fileID: 1097549276697076576, guid: 625fefef80f5a66488286878ad67ad7a, type: 3}
+  - {fileID: 1097549276697076576, guid: 625fefef80f5a66488286878ad67ad7a, type: 3}
+  - {fileID: -6307676070289699697, guid: c5147a7da93e20b45938ad95e0fe9def, type: 3}
+  - {fileID: -6307676070289699697, guid: c5147a7da93e20b45938ad95e0fe9def, type: 3}
+  loop: 1
+  timeBetweenFrames: 0.4

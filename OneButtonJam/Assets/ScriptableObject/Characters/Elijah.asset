@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeaf2a0b6681f6469c4904d425e4dd9, type: 3}
+  m_Name: Elijah
+  m_EditorClassIdentifier: 
+  textImage: {fileID: 8582831215031760186, guid: ffb28de1735d9a74eaefb390eda5d97b, type: 3}
+  characterImage: {fileID: 7972621412768234220, guid: c136d36a17fc7304b8557c564b33e412, type: 3}
+  idle: {fileID: 11400000, guid: a5abe64382af0344cad2f18603c7adf1, type: 2}
+  chop: {fileID: 11400000, guid: edd6e42e6e0af0348bc31981e1bacdd6, type: 2}

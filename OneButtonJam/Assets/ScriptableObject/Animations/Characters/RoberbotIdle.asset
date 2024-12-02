@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1917bdd7cf4391b48bb322c5b8e0156c, type: 3}
+  m_Name: RoberbotIdle
+  m_EditorClassIdentifier: 
+  animationName: 
+  frames:
+  - {fileID: 3987259466062456402, guid: 98dd209634b50475e9a64f7bbe00ef9a, type: 3}
+  - {fileID: 3987259466062456402, guid: 98dd209634b50475e9a64f7bbe00ef9a, type: 3}
+  - {fileID: 8792177043851528995, guid: 8cc6be2e0c29b491face94f06de8647c, type: 3}
+  - {fileID: 8792177043851528995, guid: 8cc6be2e0c29b491face94f06de8647c, type: 3}
+  loop: 1
+  timeBetweenFrames: 0.3
